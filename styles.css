@@ -1,0 +1,14 @@
+html {
+    text-align: center;
+}
+  
+#navbar {
+    text-align: center;
+}
+  
+@media only screen and (min-width: 1000px) {
+    #navbar {
+        width: 100px;
+        position: fixed;
+    }
+}
